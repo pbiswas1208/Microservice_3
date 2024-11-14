@@ -1,2 +1,2 @@
 # Scalable-Assignment
-Login/Registration for shopping app
+Login/Registration for retail app
